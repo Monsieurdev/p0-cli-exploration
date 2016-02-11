@@ -16,4 +16,4 @@ What concepts were solidified in the challenge? Did you have any "aha" moments? 
 The articles on open sources and licenses were mind blowing. I use to read stuff on the internet about these subjects and had no clues but now the pieces are coming together, it all makes sense. being able the run the web page was my "aha" moment I guess. luckily I didn't struggle at all. 
 
 Did you find any resources on your own that helped you better understand a topic? If so, please list it.
-No. Because I tend to get confused easily when I try to look in different places. so as long as the intended source works for me, I hold on untill I get comfortable and then I amy look elsewhere. 
+No. Because I tend to get confused easily when I try to look in different places. so as long as the intended source works for me, I hold on untill I get comfortable and then I may look elsewhere. 
